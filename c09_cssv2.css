@@ -1,0 +1,39 @@
+/*
+* Programmer Name
+* Date
+* Description of Project
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body {  
+    background-color: green;
+    font-family:Arial;"Times New Roman";serif; 
+    color: black;
+}
+h1{
+	text-decoration: underline overline;
+	text-align: center;
+	font-size:30pt;
+	
+}
+
+h1,h2,h3,h4,h5,h6 {
+background-color:#000080; 
+}
+p{
+background-color: white
+color:rgb (244,66,232)
+}
+
+img{
+	float:left; 
+	
+}
